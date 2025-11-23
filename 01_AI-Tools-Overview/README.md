@@ -6,7 +6,7 @@
 ---
 
 ## 📚 Topics Covered
-In this module, I learned how to use ChatGPT for vibe coding.
+In this module, I learned how to use ChatGPT for vibe coding. <br>
 For the homework, I built a simple TODO application using Django.
 
 ---
