@@ -11,14 +11,14 @@ For the homework, I built a simple TODO application using Django.
 
 ---
 
-## 📝 Homework
+### 📝 Homework
 Homework for Module 1 is located here:
 
 👉 [Homework Folder](homework/)
 
 ---
 
-## 🗒️ Notes
+### 🗒️ Notes
 Personal notes for this module:
 
 👉 [Module Notes](notes/module-notes.md)
