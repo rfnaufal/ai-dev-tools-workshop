@@ -21,4 +21,5 @@ Homework for Module 1 is located here:
 ## 🗒️ Notes
 Personal notes for this module:
 
-👉 [Module Notes](notes/module-notes.md)
+👉 [1 Install Django](notes/1 Install Django.md)
+👉 [2 create todo Apps](notes/2 create todo Apps.md)
