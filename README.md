@@ -26,5 +26,4 @@ Click a module folder to view details.
 
 ---
 
-## 📂 Folder Structure
 
