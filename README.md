@@ -6,7 +6,7 @@ This repository contains homework submissions from the **[ai-dev-tools-workshop 
 
 | Module | Description | Link |
 |--------|-------------|------|
-| **Module 1** | Overview | [Go to Module 1](Module01/README.md) |
+| **Module 1** | Overview | [Go to Module 1](01_AI-Tools-Overview/README.md) |
 | **Module 2** | Intermediate Concepts | [Go to Module 2](Module02/README.md) |
 | **Module 3** | Applied Practice | [Go to Module 3](Module03/README.md) |
 | **Module 4** | Advanced Topics | [Go to Module 4](Module04/README.md) |
