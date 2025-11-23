@@ -1,1 +1,32 @@
 # ai-dev-tools-workshop
+
+This repository contains homework submissions from the **[ai-dev-tools-workshop bt DataTalksClub]**.
+
+## 📘 Modules Overview
+
+| Module | Description | Link |
+|--------|-------------|------|
+| **Module 1** | Introduction / Basics | [Go to Module 1](Module01/README.md) |
+| **Module 2** | Intermediate Concepts | [Go to Module 2](Module02/README.md) |
+| **Module 3** | Applied Practice | [Go to Module 3](Module03/README.md) |
+| **Module 4** | Advanced Topics | [Go to Module 4](Module04/README.md) |
+| **Module 5** | Capstone | [Go to Module 5](Module05/README.md) |
+| **Module 6** | Final Review | [Go to Module 6](Module06/README.md) |
+
+---
+
+## 📝 Homework Summary
+
+Each module contains:
+
+- 🔹 **Homework instructions**
+- 🔹 **Your submission**
+- 🔹 **Code files**
+- 🔹 **Notes**
+
+Click a module folder to view details.
+
+---
+
+## 📂 Folder Structure
+
