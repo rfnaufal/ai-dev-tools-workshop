@@ -1,8 +1,8 @@
 
 
 ## 📚 Topics Covered
-In this module, we learn about vibe coding using chatgpt. 
-for homework we learn about creating todo application using Django. 
+In this module, I learned how to use ChatGPT for vibe coding.
+For the homework, I built a simple TODO application using Django.
 
 # Module 01 – Introduction
 - Install Django
