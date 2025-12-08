@@ -25,6 +25,6 @@ Homework for Module 2 is located here:
 
 Personal notes for this module:
 
-👉 [1 Install Django](notes/1-Install-Django.md)
+👉 [1 Create Frontend using Lovable](notes/1-Frontend-Apps.md)
 <br>
 👉 [2 create todo Apps](notes/2-create-todo-Apps.md)
