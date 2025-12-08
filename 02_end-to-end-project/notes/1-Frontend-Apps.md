@@ -1,47 +1,15 @@
-## Create Frontend application
+## Create Snake Gmae
 
-#### 1. Install Django
+#### 1. Create frontend application using Lovable
 
-I already have python and pip in my computer so I just run
+To create frontend application, I use lovable with the following prompt:
+> create the snake game with two models: pass-through and walls. prepare to make it multiplayers - we will have this functionality: leaderboard and watching (me following other players that currently play). add mockups for that and also for log in. everything should be interactive - I can log in, sign up, see my username when I'm logged in, see leaderboard, see other people play (in this case just implement some playing logic yourself as if somebody is playing) make sure that all the logic is covered with tests
+>
+> don't implement backend, so everything is mocked. But centralize all the calls to the backend in one place
 
-```bash
-pip install --upgrade pip
-pip install django
-```
+I also added from the original result with prompt:
+> Update the fonts to a clean, modern look and change the color scheme from green to a soft, eye-friendly blue.
 
-to verify run
+<img src="images/result.png" width="75%"> <br><br>
 
-```bash
-django-admin --version
-```
-
-5.2.8
-
-#### 2. Create My First Django Project
-
-go terminal, navigate to the target directory and run the following command:
-
-```bash
-django-admin startproject todoapp
-```
-
-after running the command new folder will appear <br>
-<img src="images/02-first-project.png" width="250px">
-
-enter the project directory:
-
-```bash
-cd todoapp
-```
-
-Start django development server:
-
-```bash
-python manage.py runserver
-```
-
-<img src="images/runserver.png" width="75%"> <br><br>
-open the browser, go to http://127.0.0.1:8000/ <br>
-<img src="images/django-success.png" width="75%">
-
-Django is Ready!
+#### 2. Connect to codespace
