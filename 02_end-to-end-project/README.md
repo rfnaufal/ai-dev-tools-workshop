@@ -8,8 +8,10 @@
 
 ## 📚 Topics Covered
 
-In this module, I learned how to use ChatGPT for vibe coding. <br>
-For the homework, I built a simple TODO application using Django.
+Here is End-to-End Development Flowchart. <br>
+
+
+<img src="notes/images/dev-flowchart.png" width="50%"> <br><br>
 
 ---
 
