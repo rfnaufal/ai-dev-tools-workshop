@@ -1,6 +1,6 @@
 # ai-dev-tools-workshop
 
-This repository contains homework submissions from the **[ai-dev-tools-workshop bt DataTalksClub]**.
+This repository contains homework submissions from the **[ai-dev-tools-workshop by DataTalksClub]**.
 
 ## 📘 Modules Overview
 
