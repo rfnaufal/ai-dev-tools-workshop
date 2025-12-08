@@ -1,6 +1,6 @@
-# Module 02 – Frontend Application
+# Module 02 – End to End Project (Snake Game)
 
-- Create Frontend Application
+- Create Frontend Application using Lovable
 - Create First Project
 - Create TODO Application
 
