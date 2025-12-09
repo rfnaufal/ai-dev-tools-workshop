@@ -25,5 +25,5 @@ Personal notes for this module:
 
 👉 [1 Create Frontend using Lovable](notes/1-Frontend-Apps.md)<br>
 👉 [2 Create Backend](notes/2-backend.md)<br>
-👉 [3 Ingterate Frontend and Backend](notes/3-Integrate.md)
+👉 [3 Integrate Frontend and Backend](notes/3-Integrate.md)
 <br>
