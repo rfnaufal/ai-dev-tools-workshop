@@ -157,4 +157,4 @@ npm test
 
 Result:
 
-<img src="images/verify frontend.png" width=75%>
+<img src="images/verify-frontend.png" width=75%>
