@@ -29,4 +29,3 @@ Personal notes for this module:
 
 👉 [1 Create Frontend using Lovable](notes/1-Frontend-Apps.md)
 <br>
-👉 [2 create todo Apps](notes/2-create-todo-Apps.md)
