@@ -118,7 +118,7 @@ Move all the files to frontend <br><br>
 <img src="images/move files.png" width="75%">
 
 Create .gitignore file under backend. <br> You can check the guide in the README.md <br>
-open the terminal and run the command. 
+open the terminal and run the command to Install dependencies and start the development server
 
 ```sh
 npm i
