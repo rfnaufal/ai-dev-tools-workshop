@@ -57,6 +57,8 @@ follow the procedure to grant the permission.
 
 #### 2.2 Create Codespace
 
+Create codespace using github cli:
+
 ```sh
 gh cs create
 ```
@@ -71,7 +73,7 @@ Run the command to ssh to the machine:
 gh cs ssh -c bug-free-halibut-7x75wp4j75xfxgvg
 ```
 
-#### 2.3 Connect Codespace to Antigravity
+#### 2.3 setup SSH for Antigravity
 
 we need to setup ssh so we can ssh easier to connect to codespace. 
 
@@ -81,14 +83,32 @@ gh cs ssh --config -c bug-free-halibut-7x75wp4j75xfxgvg
 
 it will generate like this: <br>
 ```
-Host cs.bug-free-halibut-7x75wp4j75xfxgvg.main <br>
-    User codespace <br>
-	ProxyCommand /opt/homebrew/bin/gh cs ssh -c bug-free-halibut-7x75wp4j75xfxgvg --stdio -- -i /Users/rfnaufal/.ssh/codespaces.auto <br>
-	UserKnownHostsFile=/dev/null <br>
-	StrictHostKeyChecking no <br>
-	LogLevel quiet <br>
-	ControlMaster auto <br>
-	IdentityFile /Users/rfnaufal/.ssh/codespaces.auto<br>
+Host cs.bug-free-halibut-7x75wp4j75xfxgvg.main 
+    User codespace 
+	ProxyCommand /opt/homebrew/bin/gh cs ssh -c bug-free-halibut-7x75wp4j75xfxgvg --stdio -- -i /Users/rfnaufal/.ssh/codespaces.auto 
+	UserKnownHostsFile=/dev/null 
+	StrictHostKeyChecking no 
+	LogLevel quiet 
+	ControlMaster auto 
+	IdentityFile /Users/rfnaufal/.ssh/codespaces.auto
 ```
 
-then added the lines into ~/.ssh/config
+then added the lines into ~/.ssh/config. <br>
+save it and run this command to ssh to codespace:
+
+```sh
+ssh cs.bug-free-halibut-7x75wp4j75xfxgvg.main
+```
+
+<img src="images/ssh.png" width="55%"> <br><br>
+
+#### 2.4 Connect Antigravity to Codespace
+
+Click from bottom left of Antigravity then choose **Connect to SSH Host**  You will use last SSH configuration <br><br>
+<img src="images/Agy to SSH.png" width="75%"> <br>
+
+once login open the terminal and go to /workspaces, or click open folder and find workspaces. <br>you will find your repo. <br> <br>
+<img src="images/workspace in Agy.png" width="75%"> <br>
+
+click open folder and find /workspaces then click ok, so the window will be like this:
+<img src="images/snake-spec.png" width="75%">
