@@ -27,5 +27,7 @@ Homework for Module 2 is located here:
 
 Personal notes for this module:
 
-👉 [1 Create Frontend using Lovable](notes/1-Frontend-Apps.md)
+👉 [1 Create Frontend using Lovable](notes/1-Frontend-Apps.md)<br>
+👉 [2 Create Backend](notes/2-backend.md)<br>
+👉 [3 Ingterate Frontend and Backend](notes/3-Integrate.md)
 <br>
