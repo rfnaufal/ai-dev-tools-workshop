@@ -117,7 +117,17 @@ create two folder named frontend and backend. <br>
 Move all the files to frontend <br><br>
 <img src="images/move files.png" width="75%">
 
-Create .gitignore file under backend. <br> You can check the guide in the README.md <br>
+Create .gitignore file under backend, and added:<br> 
+```
+__pycache__
+.venv
+.pytest_cache
+*.pyc
+.env
+.DS_Store
+```
+
+You can check the guide in the README.md <br>
 open the terminal and run the command to Install dependencies and start the development server
 
 ```sh
