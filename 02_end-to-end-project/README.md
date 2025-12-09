@@ -19,7 +19,7 @@ Here is End-to-End Development Flowchart. <br>
 
 Homework for Module 2 is located here:
 
-👉 [Homework Folder](homework/)
+👉 [Snake Game](https://github.com/rfnaufal/snake-spectacle)
 
 ---
 
