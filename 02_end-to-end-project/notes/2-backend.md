@@ -79,8 +79,9 @@ additional prompt required for my case such as:
 
 > update information to the readme in the backend folder about how to run the server and to access api documentation
 
-> add fake data so i can test the api docs
-
+> add fake data so i can test the api docs<br>
+<br>
+Here is sample rest call:<br><br>
 <img src="images/get-leaderboard.png" width="75%"><br>
 <br>
 🚀 Built With (Backend)
