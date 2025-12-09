@@ -134,3 +134,27 @@ npm run dev
 
 Result: <br>
 <img src="images/localhost-snakegame.png" width=75%>
+
+#### 2.4 Verify Frontend Apps
+
+Prompt:
+>I have some tests for my frontend applicatoin but i dont know how to run them. help me figure it out <br>
+>here is the example: <br>
+>frontend/src/tests/gameLogic.test.ts <br>
+
+it's not a single correction, so we need to test several time until it get fixed. <br>
+if test failed, to capture the error to the agent, I run the command below in the chat.<br>
+
+```sh
+@terminal:bash 
+```
+
+then try again in the terminal
+
+```sh
+npm test
+```
+
+Result:
+
+<img src="images/verify frontend.png" width=75%>
