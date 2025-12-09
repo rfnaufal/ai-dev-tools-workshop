@@ -112,3 +112,25 @@ once login open the terminal and go to /workspaces, or click open folder and fin
 
 click open folder and find /workspaces then click ok, so the window will be like this:
 <img src="images/snake-spec.png" width="75%">
+
+create two folder named frontend and backend. <br>
+Move all the files to frontend <br><br>
+<img src="images/move files.png" width="75%">
+
+Create .gitignore file under backend. <br> You can check the guide in the README.md <br>
+open the terminal and run the command. 
+
+```sh
+npm i
+```
+
+<img src="images/npm-i.png" width=75%>
+
+```sh
+npm run dev
+```
+
+<img src="images/npm-run-dev.png" width=75%> <br> <br>
+
+Result: <br>
+<img src="images/localhost-snake-game.png" width=75%>
