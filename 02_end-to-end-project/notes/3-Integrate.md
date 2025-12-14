@@ -1,6 +1,4 @@
-## Integrating Frontend and backend
-
-### 1. Integrating Frontend and Backend
+## 3. Integrating Frontend and backend
 
 Prompt:
 > make frontend use backend. use openapispec for guidance and follow the guideline in AGENTS.md
