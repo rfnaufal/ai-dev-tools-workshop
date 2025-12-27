@@ -1,6 +1,6 @@
-# ai-dev-tools-workshop
+# AI Dev Tools
 
-This repository contains homework submissions from the **[ai-dev-tools-workshop by DataTalksClub]**.
+<!--  This repository contains homework submissions from the **[ai-dev-tools-workshop by DataTalksClub]**. -->
 
 ## 📘 Modules Overview
 
@@ -11,15 +11,11 @@ This repository contains homework submissions from the **[ai-dev-tools-workshop 
 
 ---
 
-## 📝 Homework Summary
+<!-- ## 📝 Homework Summary -->
 
-Each module contains:
-
-- 🔹 **Code files**
-- 🔹 **Notes for my Documentation**
-
-Click a module folder to view details.
-
----
+<!--  Each module contains:
+ 🔹 **Code files** <br>
+ 🔹 **Notes for my Documentation**
+Click a module folder to view details. -->
 
 
