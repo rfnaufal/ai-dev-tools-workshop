@@ -29,3 +29,4 @@ Verification
 The codebase is now cleaner, more maintainable, and future-proofed against upcoming library updates.
 
 and now it passed. 
+<br> <img src="images/2-test-integration.png" width="75%">
