@@ -30,3 +30,5 @@ The codebase is now cleaner, more maintainable, and future-proofed against upcom
 
 and now it passed. 
 <br> <img src="images/2-test-integration.png" width="75%">
+
+I also prompt to push to git and update the .gitignore files for unnecesary file and better security.
